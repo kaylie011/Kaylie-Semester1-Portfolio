@@ -22,3 +22,33 @@ Key Features:
 3. Hint system: After each wrong guess, the program tells the player to guess either a larger or smaller number.
 4. Endless mode gameplay -- the game doesn't stop until the user explicitely answers "No" to playing again.
 5. Randomized number system: The number the player must guess changes each round. 
+
+**Project 3: Rock, Paper, Scissors**
+
+The player can play a game of rock, paper, scissors against the computer. Each round, the computer randomly choose rock, paper, or scissors, and plays against the player. Scores for each round are tallied up and the game can be played infinitely. 
+
+Key Features: 
+1. Randomized rock, paper, scissors gameplay
+2. Graphics visually demonstrating either rock, paper, or scissors
+3. Endless mode gameplay -- the game doesn't stop until the user explicitely answers "No" to playing again.
+4. Score recording -- scores are recorded and tallied between player and computer each round
+
+**Project 4: Simple Calculator**
+
+"Simple Calculator" is a program that performs basic, 4-function calculations (addition, subtraction, multiplication, or division.) It allows users to input 2 values, and the program returns the solution to the operation. 
+
+Key Features: 
+1. 4-function calculations (addition, subtraction, multiplication, or division)
+2. User input of up to two factors/addends/etc.
+3. "Quit program" option, or the calculator can go on endlessly
+
+**Project 5: Ticket Generator**
+
+"Ticket Generator" is a project which asks users for input on who they are, when they want to visit a museum the ticket is for, and if they have any coupon codes. After recieving responses, a ticket is generated in Python Turtle. 
+
+Key Features: 
+1. Ticket generation visual, ticket is generated in Python Turtle depending on user response.
+2. Coupon codes: Price is lowered depending on whether the correct code is submitted and on the day of the week
+3. Age-depending pricing: price is also lower depending on whether the ticket is for an adult, teen, child, or elder
+
+This concludes my Semester 1 AP Computer Science portfolio! 
